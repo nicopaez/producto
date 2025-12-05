@@ -19,7 +19,7 @@ while IFS=: read -r componente version; do
     if [ -d "$componente" ]; then
         echo "Actualizando $componente..."
         cd "$componente"
-        git pull
+        git fetch
         git checkout "$version"
         cd ..
     else
