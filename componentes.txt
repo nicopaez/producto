@@ -1,0 +1,2 @@
+componente01: v1
+componente02: v1
