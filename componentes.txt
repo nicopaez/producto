@@ -1,2 +1,2 @@
-componente01: v3
-componente02: v2
+componente01: v4
+componente02: v3
